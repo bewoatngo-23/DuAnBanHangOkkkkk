@@ -21,6 +21,7 @@ public class banHang {
 
         //upcode
         //hao sua
+        //hieu
     }
 
 }
