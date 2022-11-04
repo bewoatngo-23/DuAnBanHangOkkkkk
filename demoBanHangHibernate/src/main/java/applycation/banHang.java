@@ -16,7 +16,11 @@ public class banHang {
     public static void main(String[] args) {
         //code new
         //code mơi
+<<<<<<< HEAD
         // vu update
+=======
+        //upcode
+>>>>>>> f2136bd3e0a40829bf6c98d56c0c7390d9bbb0c5
     }
 
 }
